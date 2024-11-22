@@ -1,3 +1,4 @@
+Github page https://dgwee-git.github.io/Mid/
 說明網站的設計概念、技術選用、設計原則、規劃等。
 
 設計概念：
